@@ -1,2 +1,2 @@
 # Multiple linear regression - python
-Simple linear regression in python.
+Example of multiple linear regression in python.
